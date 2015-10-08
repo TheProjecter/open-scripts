@@ -1,0 +1,2 @@
+open-scripts is a open source project to create scripts based on PHP4 or PHP5 with or without MySQL MySQL.
+This project is open source, none of the scripts will cost money.All published scripts are free
